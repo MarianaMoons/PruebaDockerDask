@@ -1,4 +1,4 @@
-FROM python:latest as base
+FROM python:3.9 as base
 
 # Instalar conda
 # Conda Install
